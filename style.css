@@ -40,9 +40,9 @@ ul {
   color: white;
 }
 #botao:hover {
-  background-color: 4682B4;
-  transform: scale(1.3);
-  transition: all 1.9s;
+  background-color: rgb(70, 130, 180);
+  transform: scale(1);
+  transition: all 1.5s;
   font-size: 15px;
   cursor: pointer;
 }
